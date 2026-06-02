@@ -23,3 +23,8 @@
 - Tiến hành gửi request đến đường dẫn thay thế: `https://jsonplaceholder.typicode.com/users`
 - Hệ thống trả về dữ liệu danh sách người dùng dưới dạng JSON thành công với mã trạng thái `200 OK`.
 ![Kết quả GET Request](image/paste_url_and_send.png)
+
+### 2.5. Kiểm thử tự động (Test Automation)
+- Sử dụng tính năng Scripts (Post-response) để viết kịch bản tự động kiểm tra mã trạng thái trả về (Status code is 200).
+- Kết quả: Kịch bản chạy thành công, hệ thống báo **PASS**.
+![Kết quả Test Scripts](image/test_automation.png)
