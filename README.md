@@ -17,9 +17,9 @@
 
 ### 2.3. Tạo Collection mới
 - Trong `Test collection of APIs Workspace`, tiến hành tạo một **New Collection** để chuẩn bị nhóm các API Request lại với nhau cho gọn gàng và dễ chạy tự động sau này.
-![Tạo Collection](image/create_collection.png.png)
+![Tạo Collection](image/create_collection.png)
 
 ### 2.4. Thực hiện gọi API (GET Request)
 - Tiến hành gửi request đến đường dẫn thay thế: `https://jsonplaceholder.typicode.com/users`
 - Hệ thống trả về dữ liệu danh sách người dùng dưới dạng JSON thành công với mã trạng thái `200 OK`.
-![Kết quả GET Request](image/paste_url_and_send.png.jpg)
+![Kết quả GET Request](image/paste_url_and_send.png)
